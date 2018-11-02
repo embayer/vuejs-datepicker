@@ -114,6 +114,7 @@ Inline always open version
 | input-class                          | String\|Object   |             | CSS class applied to the input el                                   |
 | wrapper-class                        | String\|Object   |             | CSS class applied to the outer div                                  |
 | monday-first                         | Boolean          | false       | To start the week on Monday                                         |
+| calendarweek                 | Boolean          | false       | To display the calendar week             |
 | clear-button                         | Boolean          | false       | Show an icon for clearing the date                                  |
 | clear-button-icon                    | String           |             | Use icon for button (ex: fa fa-times)                               |
 | calendar-button                      | Boolean          | false       | Show an icon that that can be clicked                               |
